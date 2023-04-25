@@ -857,23 +857,24 @@
             padding: 30px;
         }
         .txt-bg1{
-            margin: auto;
-            padding: auto;
-            width: 300px;
+            margin: 0;
+            width: auto;
+            margin: 10px;
+            height: auto;
+            /* padding: 0; */
             background-color: red;
         }
         
         .txt-bg2{
-            margin-top: -420px;
-            width: 200px;
+           margin: 0;
+           margin: 10px;
+           width: auto;
+           height: auto;
+           background-color: #1e37c8;
         }
-        .txt-bg3{
-            margin-top: -420px;
-            width: 200px;
-        }
-        .txt-bg4{
-            margin-top: -420px;
-            width: 200px;
+
+        .txt-bg3 ,.txt-bg4{
+            display: none;
         }
        
         .image-footer{
