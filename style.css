@@ -818,7 +818,7 @@
             max-width: 350px
         }
         .tele-card1 video{
-            width: 320px;
+            width: 300px;
         }
         .tele-card2{
             max-width: 350px;
@@ -845,20 +845,22 @@
         }
         .txt-bg1{
             margin: 0;
-            width: 220px;
+            padding: 0;
+            width: 200px;
         }
         
         .txt-bg2{
             margin: 0;
-            width: 180px;
+            width: 200px;
         }
         .txt-bg3{
             margin: 0;   
-            /* width: 180px; */
+            width: 200px;
         }
         .txt-bg4{
             margin: 0;
-            /* width: 180px; */
+            padding: 0;
+            width: 200px;
         }
       
         .image-footer{
