@@ -839,10 +839,7 @@
             padding: 0;
         }
         .bottom-content a{
-            margin-left: -20px;
-            padding: 0;
-            text-decoration: none;
-            /* background-color: #1e37c8; */
+                 display: none;
         }
         .tele-card1{
             max-width: 350px
