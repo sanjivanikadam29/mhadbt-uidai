@@ -779,10 +779,10 @@
             background-color: aqua;
         }
          .poster-card3 img{
-            width: 380px;
+            /* width: 300px;
             margin: 10px;
-            padding: 0;
-            /* display: none; */
+            padding: 0; */
+            display: none;
             /* background-color: aqua; */
         }
         
